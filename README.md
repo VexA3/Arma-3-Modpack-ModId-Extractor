@@ -14,6 +14,7 @@ Next click the More... dropdown in the top left.
 ![image](https://github.com/user-attachments/assets/8d62e40d-7f9c-45bb-9161-f58c9fff7406)
 
 Next, click Export list of mods to file.
+
 ![image](https://github.com/user-attachments/assets/ba12aaf1-c5df-4649-bcd4-9f557f55bb65)
 
 Save the file to downloads or where ever is convenient.
